@@ -1,7 +1,7 @@
 {
 	"name": "reactjs-sample-project",
 	"version": "1.0.0",
-	"homepage": "https://brainpiper365.github.io/my-react-app"
+	"homepage": "https://brainpiper365.github.io/my-react-app",
 	"description": "Reactjs (JavaScript) project created with CodeSpace",
   "scripts": {
     "start": "react-scripts start",
